@@ -278,3 +278,52 @@ footer p {
 
 }
 
+/* A propos styling */
+.about-section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  line-height: 1.8;
+}
+
+.about-section h1 {
+  font-size: 2rem;
+  color: #1e1e2f;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about-section h2 {
+  font-size: 1.4rem;
+  color: #e94560;
+  margin-top: 30px;
+}
+
+.about-section p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.about-section ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.about-section li {
+  margin-bottom: 10px;
+  list-style: disc;
+}
+
+.about-section blockquote {
+  background-color: #f9f9f9;
+  border-left: 4px solid #1e1e2f;
+  padding: 10px 15px;
+  font-style: italic;
+  margin: 20px 0;
+}
+
+
